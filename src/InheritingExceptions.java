@@ -1,4 +1,4 @@
-// ×Ô¶¨ÒåÒì³£
+// è‡ªå®šä¹‰å¼‚å¸¸
 class SimpleException extends Exception{}
 
 public class InheritingExceptions {
