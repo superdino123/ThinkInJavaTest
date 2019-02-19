@@ -1,3 +1,4 @@
+package exceptions;
 // 自定义异常
 class SimpleException extends Exception{}
 
