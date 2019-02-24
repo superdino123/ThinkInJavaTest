@@ -47,4 +47,23 @@ public class ToyTest {
 		}
 		printInfo(obj.getClass());
 	}
-}
+}/* Output:
+printInfo
+Class name: typeinfo.FancyToy is interface? [false]
+Simple name: FancyToy
+Canonical name: typeinfo.FancyToy
+face
+Class name: typeinfo.HasBatteries is interface? [true]
+Simple name: HasBatteries
+Canonical name: typeinfo.HasBatteries
+Class name: typeinfo.Waterproof is interface? [true]
+Simple name: Waterproof
+Canonical name: typeinfo.Waterproof
+Class name: typeinfo.Shoots is interface? [true]
+Simple name: Shoots
+Canonical name: typeinfo.Shoots
+superclass
+Class name: typeinfo.Toy is interface? [false]
+Simple name: Toy
+Canonical name: typeinfo.Toy
+*///:~
