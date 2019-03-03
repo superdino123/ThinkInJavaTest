@@ -1,4 +1,6 @@
-package typeinfo;
+package collections;
+
+import typeinfo.A;
 
 class B implements A {
 	public void f() {}
