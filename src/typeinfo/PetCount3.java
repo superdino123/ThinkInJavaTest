@@ -2,9 +2,6 @@ package typeinfo;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
-
-import org.apache.catalina.mapper.MappingData;
-
 import net.mindview.util.MapData;
 
 public class PetCount3 {
