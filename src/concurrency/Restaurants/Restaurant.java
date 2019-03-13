@@ -1,4 +1,4 @@
-package concurrency.Restaurant;
+package concurrency.Restaurants;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
